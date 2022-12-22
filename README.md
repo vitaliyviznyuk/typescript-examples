@@ -4,6 +4,10 @@
 
 TypeScript examples and experiments.
 
+## Requirements
+
+- Node.js 18.x
+
 ## License
 
 "typescript-learning" is open-sourced software licensed under the [MIT license](LICENSE.md).
