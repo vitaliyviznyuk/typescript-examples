@@ -2,7 +2,7 @@
 
 ## typescript-learning
 
-TypeScript examples and experiments.
+TypeScript examples and experiments from https://www.typescriptlang.org.
 
 ## License
 
