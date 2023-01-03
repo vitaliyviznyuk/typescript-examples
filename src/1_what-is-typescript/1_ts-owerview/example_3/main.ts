@@ -10,3 +10,12 @@ function updateUser(id: number, update: Partial<User>) {
     const newUser = {...user, ...update}
     saveUser(id, newUser)
 }
+
+function getUser(id) {
+    return {id: id, firstName: "John", lastName: "Doe", role: "admin"}
+}
+
+function saveUser(id, newUser)
+{
+    //
+}
