@@ -1,0 +1,1 @@
+type MyBool = true | false;
